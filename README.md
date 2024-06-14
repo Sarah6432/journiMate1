@@ -1,16 +1,13 @@
-# jounimate
+# JourniMate
 
-A new Flutter project.
+JourniMate é um aplicativo de diário pessoal desenvolvido utilizando Flutter, permitindo que os usuários registrem suas experiências diárias de forma organizada e segura. Este projeto tem como objetivo fornecer uma plataforma intuitiva e agradável para que os usuários mantenham um registro de suas atividades, pensamentos e memórias.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Instalação e Uso
 
-A few resources to get you started if this is your first Flutter project:
+Para utilizar o JourniMate em seu ambiente de desenvolvimento local, siga estes passos:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clonar o Repositório**:
+   ```bash
+   git clone https://github.com/sarah6432/journiMate1.git
